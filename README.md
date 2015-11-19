@@ -13,7 +13,7 @@ Screenshots
 
 The Chart
 -------------
-My chart is loosely based on https://github.com/natural-affinity/Raphael-Radar.  I had to change the core math function and grid, and also add colors and animation for my purposes.  But some functionality is still grandfathered from the natural-affinity github. In case you would like to add something else or report a problem, please,do so via github "issues".  This Demo has editable inputs for your convinience.
+My chart is loosely based on https://github.com/natural-affinity/Raphael-Radar.  I had to change the core math function and grid, and also add colors and animation for my purposes.  But some functionality is still grandfathered from the natural-affinity github. In case you would like to add something else or report a problem, please, do so via github "issues".  Demo Pge has editable inputs for your convinience.
                     
 ##data.readonly 
 By default the natural-affinity chart points can be dragged if there is only one data series. This option exists to prevent default behavior.
