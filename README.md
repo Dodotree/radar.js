@@ -6,7 +6,10 @@ Grid can be circular or a polygon spider-web.  The starting point of the grid ca
 
 Screenshots
 -----------
-<img src="https://raw.githubusercontent.com/Dodotree/radar.js/master/radar.jpg" width=125>
+<img src="https://raw.githubusercontent.com/Dodotree/radar.js/master/samples/radar.jpg" width=125>
+<img src="https://raw.githubusercontent.com/Dodotree/radar.js/master/samples/sample1.jpg" width=125>
+<img src="https://raw.githubusercontent.com/Dodotree/radar.js/master/samples/sample2.jpg" width=125>
+<img src="https://raw.githubusercontent.com/Dodotree/radar.js/master/samples/sample3.jpg" width=125>
 
 The Chart
 -------------
