@@ -2,7 +2,7 @@ Highly customizable SVG Radar chart with animations.
 =============
 
 http://fallingpix.com/resume/radar_chart.html    
-Requirs Raphael.js. Can be used along with jQuery and Bootstrap, but doesn't require them. Grid can be circular or a polygon spider-web.  The starting point of the grid can be rotated at any angle for reading convinience.  Labels can have individual color for each axes.  They pulse on mouse over. It's also possible to use the callback function to update some information "on click" or to create a custom tooltip.  
+Requires Raphael.js. Can be used along with jQuery and Bootstrap, but doesn't require them. Grid can be circular or a polygon spider-web.  The starting point of the grid can be rotated at any angle for reading convinience.  Labels can have individual color for each axes.  They pulse on mouse over. It's also possible to use the callback function to update some information "on click" or to create a custom tooltip.  
 
 Screenshots
 -----------
